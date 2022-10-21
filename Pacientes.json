@@ -1,0 +1,32 @@
+[
+{
+	"id": "1",
+	"name": "Fernando",
+	"surname": "Gutierrez",
+	"residencia": "Murcia",
+};
+{	
+	"id": "2",
+	"name": "Fernando",
+	"surname": "Herías",
+	"residencia": "Madrid",
+};
+{	
+	"id": "3",
+	"name": "María",
+	"surname": "Fernández",
+	"residencia": "Barcelona",
+};
+{	
+	"id": "4",
+	"name": "Alejandro",
+	"surname": "García",
+	"residencia": "León",
+};
+{	
+	"id": "5",
+	"name": "Manuela",
+	"surname": "Carmina",
+	"residencia": "Madrid",
+}
+]
